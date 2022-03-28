@@ -1,6 +1,6 @@
 {
   "name": "example-react-app",
-  "hompage": "http://maisa80.github.io/shop",
+  "hompage": "http://maisa80.github.io/example-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
